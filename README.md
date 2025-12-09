@@ -5,7 +5,7 @@ Ejercicio pedido por Ana
 Este es un ejemplo de README que incluye una imagen ilustrativa.
 
 ## Imagen del proyecto
-![Vista previa del proyecto](<img width="330" height="220" alt="image" src="https://github.com/user-attachments/assets/51416eb2-05bb-4f61-9c2f-a15626f116fc" />
+![Vista previa del proyecto](https://es.wikipedia.org/wiki/Bandera_de_Espa%C3%B1a
 )
 
 # Descripción
